@@ -6,7 +6,7 @@ Summary:
 IMGMagicks is designed to manipulate images to adhere to a specific format. 
 It has 3 functions, Save, Crop and Resize, These Instructions will go over those functions.
 
-
+**************************************************************************************************************************************
 
 Setup:
 
@@ -27,7 +27,7 @@ IMPORTANT!!!
 Don't drag the saved image back into the box, this creates a handle between the application and the image, making it not editable.
 Change the image number or move the image to another location to make it editable again.
 
-
+**************************************************************************************************************************************
 
 Save:
 
@@ -44,8 +44,7 @@ Steps
 
 Note: Clicking SaveIMG will overwrite the image in the current location with the one in the Picturebox
 
-
-
+**************************************************************************************************************************************
 
 Crop:
 
@@ -65,8 +64,7 @@ Steps
 
 Note: Crop dimensions are shown below the Crop button
 
-
-
+**************************************************************************************************************************************
 
 Resize:
 

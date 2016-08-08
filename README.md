@@ -70,7 +70,7 @@ Resize:
 
 The Resize function changes the resolution of an image specified by Path + imagenumber
 
-Note: Image must exist
+Note: Image must exist (Path + Image Number must reach an image)
 
 Steps
 
